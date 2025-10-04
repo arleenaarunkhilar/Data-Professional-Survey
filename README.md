@@ -1,5 +1,4 @@
 # Data-Professional-Survey
-This repository presents a comprehensive data analysis and visualization project using Microsoft Power BI. The project transforms raw survey data from around 600 data professionals into an interactive dashboard, providing a clear and actionable overview of the data industry landscape.
 Project Title & Tagline: Data Professional Survey Dashboard: Insights into a Global Community
 
 Project Overview: A brief paragraph that explains the dataset's purpose. Something like: "This project uses a publicly available dataset of over 6,000 data professionals to analyze key industry trends. The dashboard uncovers insights into salaries, career paths, job satisfaction, and the skills most in demand, providing a clear overview of the data professional landscape."
